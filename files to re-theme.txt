@@ -1,0 +1,57 @@
+Pages to retheme : Front-end
+
+1 login.php
+2 register.php
+3 lost.php
+4 home.php
+5 purchase.php
+6 purchases.php
+7 addons.php
+8 giftcode.php
+9 hub.php
+10 boosthub.php
+11 updates.php
+12 purchases.php
+13 apiaccess.php
+14 privapiaccess.php
+15 scammers.php
+16 tools.php
+17 account.php
+18 spservers.php
+19 rootedhub.php
+20 freehub.php
+21 adds.php
+22 relogin.php
+23 vpnhub.php
+24 vpnstore.php
+25 vpnusers.php
+26 freevpn.php
+27 ghostvpnhub.php
+
+I know you are smart but just to mention it incase of confusing.
+All neccessery files related to the files above also needs to be included in the re-theme process.
+
+And make sure the popup on home page shows on the new design.
+It is also important that the last winner appears and works on the new design.
+
+Also make sure it looks like the pic in preview photo
+
+Also note that all html folders, well basically all folders needs to stay as they are, 
+anything of that being touched, removed or functions gettings tuckled with will break something which...
+Will cause errors here and there from time to time.!
+
+Admin user info
+username : admintest
+password : admintest123
+
+Pages to retheme : Back-end (Admin Panel)
+
+After you're done with front-end
+
+Pages to retheme : Back-end (Staff Panel)
+
+After you're done with front-end
+
+Pages to retheme : Back-end (Reseller Panel)
+
+After you're done with front-end
